@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>raincleaner</id>
+    <version>2.7.1</version>
+    <packageSourceUrl>https://github.com/raincleaner/RainCleaner/tree/main/chocolatey</packageSourceUrl>
+    <owners>raincleaner</owners>
+    <title>Rain Cleaner</title>
+    <authors>Tomislav Vasilev</authors>
+    <projectUrl>https://raincleaner.eu/</projectUrl>
+    <iconUrl>https://raincleaner.eu/assets/press/icon-256.png</iconUrl>
+    <copyright>2026 T. Vasilev</copyright>
+    <licenseUrl>https://raincleaner.eu/terms</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://raincleaner.eu/how-it-works</docsUrl>
+    <releaseNotes>https://raincleaner.eu/changelog</releaseNotes>
+    <tags>raincleaner cleaner disk-cleanup drivers game-booster ransomware dns utility freeware admin</tags>
+    <summary>Free Windows cleaner, driver installer and game booster that explains each step.</summary>
+    <description><![CDATA[Rain Cleaner is a free program for Windows 10 and 11. It checks what is taking up space, which drivers are out of date and what starts with Windows. Then it shows you what it found and why. You decide what changes.
+
+## Features
+- **Cleaning** - finds files that take up space for no good reason and explains what you give up by deleting them.
+- **Drivers** - only from Microsoft's update catalogue; nothing is hosted or repackaged.
+- **Game booster** - frees resources while you play, then restores every setting.
+- **Emergency drivers** - gets the network adapter working on a PC that cannot go online.
+- **Ransomware protection** - watches for early signs of mass encryption. It is not an antivirus.
+- **Internet** - measures which DNS servers answer fastest.
+
+Interface: English, Bulgarian, German, Spanish, Russian, Turkish. Free, no ads, nothing locked.
+
+## Notes
+- 64-bit Windows 10/11 only.
+- The MSI is not code-signed yet.
+]]></description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

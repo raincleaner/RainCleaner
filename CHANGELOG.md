@@ -2,6 +2,12 @@
 
 All notable changes to Rain Cleaner. The same list, in six languages, is at https://raincleaner.eu/changelog .
 
+## 2.10.0 — 2026-09-26
+
+- PC health score on the dashboard: one number from 0 to 100, built only from what was measured on this PC — system drive, files to clean, driver updates, devices without a driver, startup programs and ransomware protection. Each thing that lowers it is a link to the fix.
+- Nothing is guessed: readings that were not taken cost no points, and with fewer than three readings the score is not shown.
+- After a clean, free users see one quiet line about what Pro could do on its own; "Not now" hides it for 14 days. 175 automated tests.
+
 ## 2.9.2 — 2026-09-26
 
 - Stronger licence checks: every Pro feature now verifies the server-signed licence itself, so a tampered copy of the program no longer unlocks Pro. Nothing changes for paying users.

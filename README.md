@@ -101,7 +101,15 @@ This repository hosts **releases, the changelog, the Chocolatey package and the 
 Rain Cleaner is freeware; the source is not public. See [LICENSE](LICENSE),
 [CHANGELOG](CHANGELOG.md) and [SECURITY](SECURITY.md).
 
-Only download Rain Cleaner from [raincleaner.eu](https://raincleaner.eu), this repository,
-WinGet or Chocolatey. Copies elsewhere — especially "Pro" builds — are modified and are not ours.
+### Verified downloads
+
+Only download Rain Cleaner from:
+
+- ✓ [raincleaner.eu](https://raincleaner.eu/download)
+- ✓ [GitHub Releases](https://github.com/raincleaner/RainCleaner/releases) of this repository
+- ✓ Microsoft WinGet — `TVasilev.RainCleaner`
+- ✓ Chocolatey — `raincleaner`
+
+Copies anywhere else — especially "Pro" or "portable Pro" builds — have been modified by someone else and are not ours.
 
 Written and maintained by **T. Vasilev** · [support@raincleaner.eu](mailto:support@raincleaner.eu)

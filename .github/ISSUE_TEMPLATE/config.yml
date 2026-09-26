@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and help
+    url: https://github.com/raincleaner/RainCleaner/discussions
+    about: Ask and answer questions in Discussions.
+  - name: Discord
+    url: https://discord.gg/KykZ9t8RwM
+    about: Chat with the team and other users.
+  - name: Security issue
+    url: https://raincleaner.eu/.well-known/security.txt
+    about: Report vulnerabilities privately to security@raincleaner.eu.

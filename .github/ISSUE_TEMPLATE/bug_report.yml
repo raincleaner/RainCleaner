@@ -1,0 +1,40 @@
+name: Bug report
+description: Something in Rain Cleaner does not work as it should
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Rain Cleaner version
+      description: Shown at the bottom of the menu, e.g. 2.9.2
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options: [Windows 11, Windows 10, Windows Server]
+    validations:
+      required: true
+  - type: dropdown
+    id: edition
+    attributes:
+      label: Installer or portable
+      options: [Installer (MSI), Portable (ZIP), WinGet, Chocolatey]
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: And what did you expect to happen instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open …\n2. Click …\n3. …"
+  - type: textarea
+    id: shots
+    attributes:
+      label: Screenshots or the redacted History export
+      description: History → Export removes user names and paths before you share it.

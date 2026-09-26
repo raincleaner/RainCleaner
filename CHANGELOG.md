@@ -2,6 +2,12 @@
 
 All notable changes to Rain Cleaner. The same list, in six languages, is at https://raincleaner.eu/changelog .
 
+## 2.11.1 — 2026-09-26
+
+- After a clean, free users see what they just freed and can start the free Pro week from there.
+- When the free Pro week ends, the Pro screen says so and offers an optional, anonymous "What stopped you?".
+- Under the plans: secure checkout by Stripe, prices in euro (Stripe may show your local currency with its conversion fee), and the free version stays usable.
+
 ## 2.11.0 — 2026-09-26
 
 - Try Pro free for 7 days: Pro → Start free week. No card and nothing renews — after the week Rain Cleaner is simply the free version again. One free week per PC.

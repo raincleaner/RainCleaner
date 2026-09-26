@@ -84,9 +84,9 @@ Undo Anything, all drivers at once and the scheduled autopilot. Monthly, yearly 
 
 ## Privacy
 
-The program makes exactly **two** kinds of network request, both written out at
-[raincleaner.eu/privacy](https://raincleaner.eu/privacy): a check for a new version, and
-activating a Pro key — only if you enter one. No analytics, no telemetry.
+The program talks to our server for only three things, all written out at
+[raincleaner.eu/privacy](https://raincleaner.eu/privacy): the update check, activating a Pro key,
+and starting the free Pro week — the last two only if you ask. No analytics, no telemetry.
 
 ## Community and help
 

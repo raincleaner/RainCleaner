@@ -2,6 +2,12 @@
 
 All notable changes to Rain Cleaner. The same list, in six languages, is at https://raincleaner.eu/changelog .
 
+## 2.11.0 — 2026-09-26
+
+- Try Pro free for 7 days: Pro → Start free week. No card and nothing renews — after the week Rain Cleaner is simply the free version again. One free week per PC.
+- During the free week the plans stay on the Pro screen, and the Pro offers disappear everywhere as soon as Pro is active.
+- New optional link "Not buying? Tell us what is stopping you": an anonymous page on the website — nothing is sent unless you send it.
+
 ## 2.10.0 — 2026-09-26
 
 - PC health score on the dashboard: one number from 0 to 100, built only from what was measured on this PC — system drive, files to clean, driver updates, devices without a driver, startup programs and ransomware protection. Each thing that lowers it is a link to the fix.

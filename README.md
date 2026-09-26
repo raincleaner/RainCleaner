@@ -93,6 +93,7 @@ activating a Pro key — only if you enter one. No analytics, no telemetry.
 - **Discord:** [discord.gg/KykZ9t8RwM](https://discord.gg/KykZ9t8RwM)
 - **Forum:** [raincleaner.eu/community](https://raincleaner.eu/community)
 - **Facebook:** [Rain Cleaner](https://www.facebook.com/1279115171954428)
+- **YouTube:** [@raincleanereu](https://www.youtube.com/@raincleanereu)
 - **Bugs and ideas:** [open an issue](https://github.com/raincleaner/RainCleaner/issues/new/choose) or start a [discussion](https://github.com/raincleaner/RainCleaner/discussions)
 
 ## About this repository

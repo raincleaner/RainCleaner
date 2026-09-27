@@ -2,6 +2,14 @@
 
 All notable changes to Rain Cleaner. The same list, in six languages, is at https://raincleaner.eu/changelog .
 
+## 2.12.0 — 2026-09-26
+
+- New Performance Lab: processor, memory, graphics, Windows drive and screen in one overview. A value Windows does not report is shown as "Not reported", never guessed.
+- Disk health: what each drive reports about itself, a read-only file-system scan and "Optimise with Windows" (TRIM for SSDs, defragmentation only for hard disks). Repairs use Windows' own tools, only after you confirm, and go into the history.
+- Games: the games installed through Steam and Epic Games, their size and the drive they are on.
+- Pro: the workload advisor names the part most likely to hold the PC back for gaming, streaming, video editing, design, CAD or office work, with the reasons — no bottleneck percentages, no FPS promises. The upgrade advisor gives memory and storage specifications only when Windows can prove they fit; processors and graphics cards are never recommended.
+- A drive that reports trouble now lowers the PC health score. 192 automated tests.
+
 ## 2.11.1 — 2026-09-26
 
 - After a clean, free users see what they just freed and can start the free Pro week from there.

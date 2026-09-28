@@ -2,6 +2,10 @@
 
 All notable changes to Rain Cleaner. The same list, in six languages, is at https://raincleaner.eu/changelog .
 
+## 2.12.1 — 2026-09-28
+
+- Clean page: on PCs with many drives the Scan again, Preview and Clean selected buttons were pushed out of the window until it was made bigger. The drives now wrap into rows and the buttons always stay visible. Thanks to the user who reported it with a screenshot.
+
 ## 2.12.0 — 2026-09-26
 
 - New Performance Lab: processor, memory, graphics, Windows drive and screen in one overview. A value Windows does not report is shown as "Not reported", never guessed.

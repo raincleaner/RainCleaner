@@ -2,6 +2,11 @@
 
 All notable changes to Rain Cleaner. The same list, in six languages, is at https://raincleaner.eu/changelog .
 
+## 2.12.3 — 2026-09-28
+
+- Clean page: after a clean, the line under the results could run under the Scan again button in a narrow window. The text now wraps next to the buttons and never overlaps them.
+- The main window now opens where and as big as you left it (also maximized). If that monitor is no longer there, it opens centered as before. Thanks to the user who suggested it.
+
 ## 2.12.2 — 2026-09-28
 
 - Clean page, follow-up to 2.12.1: with a dozen drives at the smallest window size or with high display scaling (125–175 %) the buttons could still end up below the window. The drive list now shows at most two rows and scrolls on its own, so the buttons always stay visible.

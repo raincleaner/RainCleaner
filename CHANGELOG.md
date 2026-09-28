@@ -2,6 +2,10 @@
 
 All notable changes to Rain Cleaner. The same list, in six languages, is at https://raincleaner.eu/changelog .
 
+## 2.12.2 — 2026-09-28
+
+- Clean page, follow-up to 2.12.1: with a dozen drives at the smallest window size or with high display scaling (125–175 %) the buttons could still end up below the window. The drive list now shows at most two rows and scrolls on its own, so the buttons always stay visible.
+
 ## 2.12.1 — 2026-09-28
 
 - Clean page: on PCs with many drives the Scan again, Preview and Clean selected buttons were pushed out of the window until it was made bigger. The drives now wrap into rows and the buttons always stay visible. Thanks to the user who reported it with a screenshot.

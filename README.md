@@ -80,13 +80,13 @@ Microsoft Defender scan.
 Everything listed above is free, for as long as the program exists. **Pro** is optional and adds
 actions and automation: Fix My PC, Make My PC Faster, Never Run Out of Space, Update Everything,
 Undo Anything, all drivers at once and the scheduled autopilot. Monthly, yearly or once —
-[pricing](https://raincleaner.eu/pricing). Try it free for 7 days from the Pro screen: no card, nothing renews.
+[pricing](https://raincleaner.eu/pricing). Try it free for 14 days from the Pro screen: no card, nothing renews.
 
 ## Privacy
 
 The program talks to our server for only three things, all written out at
 [raincleaner.eu/privacy](https://raincleaner.eu/privacy): the update check, activating a Pro key,
-and starting the free Pro week — the last two only if you ask. No analytics, no telemetry.
+and starting the free Pro trial — the last two only if you ask. No analytics, no telemetry.
 
 ## Community and help
 

@@ -2,6 +2,10 @@
 
 All notable changes to Rain Cleaner. The same list, in six languages, is at https://raincleaner.eu/changelog .
 
+## 2.13.1 — 2026-10-01
+
+- The dashboard now offers the 14-day Pro trial directly: one button starts it, no card, nothing renews. If starting it fails, you stay in the program instead of being sent to a payment page.
+
 ## 2.13.0 — 2026-10-01
 
 - New Pro prices: €5.99 a month, €34.99 a year or €74.99 once (they were €9.99, €59.99 and €99.99).

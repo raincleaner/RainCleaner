@@ -2,6 +2,11 @@
 
 All notable changes to Rain Cleaner. The same list, in six languages, is at https://raincleaner.eu/changelog .
 
+## 2.13.0 — 2026-10-01
+
+- New Pro prices: €5.99 a month, €34.99 a year or €74.99 once (they were €9.99, €59.99 and €99.99).
+- The free Pro trial is now 14 days long (it was 7). No card, nothing renews, one trial per PC.
+
 ## 2.12.3 — 2026-09-28
 
 - Clean page: after a clean, the line under the results could run under the Scan again button in a narrow window. The text now wraps next to the buttons and never overlaps them.

@@ -1,6 +1,10 @@
 # Changelog
 
-All notable changes to Rain Cleaner. The same list, in six languages, is at https://raincleaner.eu/changelog .
+All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
+
+## 2.14.0 — 2026-10-03
+
+- Rain Cleaner is now available in 13 languages. New: Português (Brasil), 简体中文, 日本語, 한국어, Tiếng Việt, Bahasa Indonesia and ไทย. Pro licences also keep a signed offline lease, so a short offline period never switches Pro off by mistake.
 
 ## 2.13.1 — 2026-10-01
 

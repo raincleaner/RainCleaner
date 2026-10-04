@@ -88,6 +88,12 @@ The program talks to our server for only three things, all written out at
 [raincleaner.eu/privacy](https://raincleaner.eu/privacy): the update check, activating a Pro key,
 and starting the free Pro trial — the last two only if you ask. No analytics, no telemetry.
 
+## Documentation
+
+- Windows cleanup guides: https://raincleaner.eu/guides/windows-cleanup
+- Driver troubleshooting: https://raincleaner.eu/guides/how-to-update-drivers-windows-11
+- Security information and hashes: https://raincleaner.eu/trust
+
 ## Community and help
 
 - **Discord:** [discord.gg/KykZ9t8RwM](https://discord.gg/KykZ9t8RwM)

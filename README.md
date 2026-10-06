@@ -28,8 +28,8 @@ Rain Cleaner checks what is taking up space, which drivers are out of date and w
 with Windows. Then it shows you what it found **and why**. You decide what changes, and the
 history lets you undo it.
 
-**[raincleaner.eu](https://raincleaner.eu)** — the site and the program speak six languages
-(English, Български, Deutsch, Español, Русский, Türkçe).
+**[raincleaner.eu](https://raincleaner.eu)** — the site and the program speak 13 languages
+(English, Български, Deutsch, Español, Русский, Türkçe, Português, 简体中文, 日本語, 한국어, Tiếng Việt, Bahasa Indonesia, ไทย).
 
 <p align="center">
   <img src="assets/demo.gif" alt="Rain Cleaner: dashboard, cleaning, drivers, game booster, protection" width="800">
@@ -86,7 +86,7 @@ Undo Anything, all drivers at once and the scheduled autopilot. Monthly, yearly 
 
 The program talks to our server for only three things, all written out at
 [raincleaner.eu/privacy](https://raincleaner.eu/privacy): the update check, activating a Pro key,
-and starting the free Pro trial — the last two only if you ask. No analytics, no telemetry.
+and starting the free Pro trial — the last two only if you ask. No in-app telemetry and no third-party analytics.
 
 ## Documentation
 

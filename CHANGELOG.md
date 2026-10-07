@@ -2,6 +2,11 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.15.1 — 2026-10-07
+
+- Rain Cleaner is now code-signed by Where2Go LTD. The installer, the programs and the recovery tool carry a Microsoft-verified signature, so Windows shows Where2Go LTD as the publisher. Because the signature is new, SmartScreen may still ask once for a while.
+- Rain Recovery Link is now translated into all 13 languages.
+
 ## 2.15.0 — 2026-10-07
 
 - New: Rain Recovery Link. Pair your Android phone once while the PC works; if Windows ever stops starting, plug the phone in by USB and repair, add drivers to, or reinstall Windows from it. Open Recovery Link in the left menu and press “Set up with my phone”. Needs Rain Cleaner for Android with the Recovery Link purchase (one-time, 1 phone, up to 3 PCs).

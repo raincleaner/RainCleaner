@@ -51,7 +51,7 @@ history lets you undo it.
 
 - **It is not an antivirus.** No virus database, no replacement for yours. It watches behaviour, not known files.
 - **It does not speed up your internet.** That comes from your provider. It can measure DNS and help you pick a faster one — that part is visible in milliseconds.
-- **It is not code-signed yet.** Windows will say "unknown publisher" about the installer, as it does about every unsigned one. If you would rather skip that screen, take the portable version.
+- **It does not promise SmartScreen will stay silent.** From 2.15.1 the installer and the programs are code-signed by Where2Go LTD, but the signature is new, so SmartScreen may still warn for a while. SHA-256 hashes are on the [Trust page](https://raincleaner.eu/trust); a portable version is offered as well.
 
 ## Install
 

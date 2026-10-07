@@ -2,6 +2,11 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.15.0 — 2026-10-07
+
+- New: Rain Recovery Link. Pair your Android phone once while the PC works; if Windows ever stops starting, plug the phone in by USB and repair, add drivers to, or reinstall Windows from it. Open Recovery Link in the left menu and press “Set up with my phone”. Needs Rain Cleaner for Android with the Recovery Link purchase (one-time, 1 phone, up to 3 PCs).
+- Rain Recovery adds itself only to the Windows recovery environment (Troubleshoot > Rain Recovery); the original recovery image is backed up and can be restored with one button. Windows 10 works with phones that share their connection as RNDIS; Windows 11 supports RNDIS and NCM.
+
 ## 2.14.1 — 2026-10-05
 
 - Fixed: activating a Pro key could fail with “access to license.json is denied” when the licence file in C:\ProgramData\RainCleaner could not be overwritten (for example, when another account had created it). Rain Cleaner now saves the licence in your user folder in that case, and shows a clear message if it cannot be saved at all.

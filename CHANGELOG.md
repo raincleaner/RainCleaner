@@ -2,6 +2,12 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.15.2 — 2026-10-08
+
+- Recovery Link: “Set up with my phone” now shows a progress bar, and a step-by-step guide explains how to turn on USB tethering on your phone brand (including Xiaomi MIUI/HyperOS, Samsung and Huawei).
+- New left menu: every page fits without scrolling, also on small screens.
+- The publisher is now shown as Where2Go LTD in Windows (Apps, installer and file properties).
+
 ## 2.15.1 — 2026-10-07
 
 - Rain Cleaner is now code-signed by Where2Go LTD. The installer, the programs and the recovery tool carry a Microsoft-verified signature, so Windows shows Where2Go LTD as the publisher. Because the signature is new, SmartScreen may still ask once for a while.

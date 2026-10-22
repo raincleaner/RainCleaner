@@ -2,6 +2,11 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.16.0 — 2026-10-22
+
+- Cleaning profiles: Quick (only what Windows rebuilds by itself), Deep (also things that cost a little convenience once) and Before selling the PC (Deep plus emptying the Recycle Bin, with a pointer to Windows' own “Reset this PC”). The clean still shows the full list and asks first.
+- Drive health: the dashboard now also reads each drive's SMART failure prediction and the wear an SSD reports, and says plainly when the drives report themselves healthy. A drive that predicts failure asks you to back up now.
+
 ## 2.15.2 — 2026-10-08
 
 - Recovery Link: “Set up with my phone” now shows a progress bar, and a step-by-step guide explains how to turn on USB tethering on your phone brand (including Xiaomi MIUI/HyperOS, Samsung and Huawei).

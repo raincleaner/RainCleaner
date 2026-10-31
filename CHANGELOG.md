@@ -2,6 +2,11 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.16.1 — 2026-10-31
+
+- The Pro offer shown after a scan no longer suggests that Pro is required to clean up the detected files — cleaning is free. It now explains what Pro adds, that one Pro key works on up to 3 PCs, and that paid plans include a 14-day money-back guarantee.
+- Fixed the free Pro trial duration shown in the app: it incorrectly said 14 days. New trials last 7 days, as stated on the website.
+
 ## 2.16.0 — 2026-10-22
 
 - Cleaning profiles: Quick (only what Windows rebuilds by itself), Deep (also things that cost a little convenience once) and Before selling the PC (Deep plus emptying the Recycle Bin, with a pointer to Windows' own “Reset this PC”). The clean still shows the full list and asks first.

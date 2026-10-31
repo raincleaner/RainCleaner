@@ -2,6 +2,11 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.16.2 — 2026-10-31
+
+- History no longer lists the same cleanup twice.
+- The window before payment now states the same 14-day money-back guarantee as our terms: a full refund within 14 days, also after activation and without a reason.
+
 ## 2.16.1 — 2026-10-31
 
 - The Pro offer shown after a scan no longer suggests that Pro is required to clean up the detected files — cleaning is free. It now explains what Pro adds, that one Pro key works on up to 3 PCs, and that paid plans include a 14-day money-back guarantee.

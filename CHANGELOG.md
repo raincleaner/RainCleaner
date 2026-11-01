@@ -2,6 +2,10 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.16.3 — 2026-11-01
+
+- Stronger Pro licence protection: each part of the app now checks the licence signature itself and verifies that its program files are the original signed ones, so modified copies no longer unlock Pro.
+
 ## 2.16.2 — 2026-10-31
 
 - History no longer lists the same cleanup twice.

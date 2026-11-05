@@ -2,6 +2,11 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.17.1 — 2026-11-05
+
+- Security: the Pro Plus level is now confirmed by a signature from the licence server, so it can no longer be unlocked by editing the licence file. Paying customers see no change; the program confirms the level on its next check with the server.
+- No other changes — 2.17.1 is a security fix release on top of 2.17.0.
+
 ## 2.17.0 — 2026-11-05
 
 - New "Why is my PC slow?": ranked causes measured on this PC (drive health, free space, memory, startup programs, crash reports). The diagnosis is free; the one-click fixes are part of Pro.

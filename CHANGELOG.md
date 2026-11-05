@@ -2,6 +2,15 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.17.0 — 2026-11-05
+
+- New "Why is my PC slow?": ranked causes measured on this PC (drive health, free space, memory, startup programs, crash reports). The diagnosis is free; the one-click fixes are part of Pro.
+- New free blue-screen decoder: recent Windows stop codes from this PC explained in plain words, with where to look first.
+- New PC Health Report (Pro): one click saves an HTML report of drive health, free space, startup programs and recent cleans.
+- New Pro Plus plan (EUR 9.99/month, 59.99/year, 119.99 lifetime): all of Pro plus Scheduled Autopilot (driver check and health report on every scheduled run), Turbo Mode, Deep Uninstall (leftover folders and registry keys, with Undo), Ghost tasks cleaner, 5 PCs per key and priority support.
+- Settings: Pro Plus options (which services Turbo Mode may pause, folder for PC Health Reports). Every new change is written to History with Undo.
+- Fixed: Uninstall on the Programs page did not start the uninstaller for many programs; it now always uses the program's own uninstall command.
+
 ## 2.16.3 — 2026-11-01
 
 - Stronger Pro licence protection: each part of the app now checks the licence signature itself and verifies that its program files are the original signed ones, so modified copies no longer unlock Pro.

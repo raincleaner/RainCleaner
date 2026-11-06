@@ -2,6 +2,13 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.18.0 — 2026-11-06
+
+- A new look, and progress you can read: every long job now shows a real percentage, the step it is on and what it is working through, instead of a spinner.
+- Where Windows itself cannot report progress, the program says so in plain words instead of spinning forever.
+- New vector icons, a clearer button hierarchy and rewritten English texts across every screen.
+- Nothing was removed and no price changed.
+
 ## 2.17.1 — 2026-11-05
 
 - Security: the Pro Plus level is now confirmed by a signature from the licence server, so it can no longer be unlocked by editing the licence file. Paying customers see no change; the program confirms the level on its next check with the server.

@@ -2,6 +2,13 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.20.0 — 2026-11-10
+
+- New: your Pro trial results. During the free week and after it, the Pro page and the home screen show what Rain Cleaner did on this PC - space freed, cleanups, automatic cleanups and startup programs changed.
+- Every number is read from History, where you can check it; if History has nothing to show, no numbers appear.
+- After the trial the home screen has one button to the plans and a plain "Stay with Free".
+- Nothing was removed.
+
 ## 2.19.0 — 2026-11-10
 
 - New: an Eco tab in Performance Lab with four plain cards - power saved, your living forest, a calmer machine and less needless writing to the drive.

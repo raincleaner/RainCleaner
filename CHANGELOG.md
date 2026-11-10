@@ -2,6 +2,13 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.19.0 — 2026-11-10
+
+- New: an Eco tab in Performance Lab with four plain cards - power saved, your living forest, a calmer machine and less needless writing to the drive.
+- Rain Cleaner reads the PC just before and just after a Boost or Turbo Mode and counts only that difference, so the numbers are what the program itself changed.
+- Every card can be turned over to show the raw readings behind its number; where the PC reports nothing, the card says so instead of showing a zero.
+- Nothing was removed and no price changed.
+
 ## 2.18.0 — 2026-11-06
 
 - A new look, and progress you can read: every long job now shows a real percentage, the step it is on and what it is working through, instead of a spinner.

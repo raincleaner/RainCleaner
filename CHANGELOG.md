@@ -2,6 +2,14 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.21.0 — 2026-11-10
+
+- New in the Pro trial: the Pro page shows how many of the six Pro tools you have tried and names the next one.
+- In the last three days the home screen says the trial is ending, what it did on this PC and which tools go back to locked.
+- Where a regional price applies to your country, the Pro page says so before you open the payment page.
+- After a clean that freed space there is a link that copies the Rain Cleaner address for a friend.
+- Nothing was removed.
+
 ## 2.20.0 — 2026-11-10
 
 - New: your Pro trial results. During the free week and after it, the Pro page and the home screen show what Rain Cleaner did on this PC - space freed, cleanups, automatic cleanups and startup programs changed.

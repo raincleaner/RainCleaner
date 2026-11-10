@@ -2,6 +2,12 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.22.0 — 2026-11-10
+
+- New on first start: Rain Cleaner asks once whether to start your free week of Pro, with two plain buttons - start it or stay with Free.
+- Nothing starts and nothing is sent unless you press Start, and the screen says what is sent when you do.
+- The offer on the home screen stays where it was. Nothing was removed.
+
 ## 2.21.0 — 2026-11-10
 
 - New in the Pro trial: the Pro page shows how many of the six Pro tools you have tried and names the next one.

@@ -2,6 +2,18 @@
 
 All notable changes to Rain Cleaner. The same list, in 13 languages, is at https://raincleaner.eu/changelog .
 
+## 2.23.0 — 2026-11-13
+
+- The end of the free Pro week is clearer: in the last days of the trial and after it, the home screen card shows what Rain Cleaner did on this PC during the week, now also driver updates installed and changes undone, all counted from History.
+- The yearly and monthly plans are on that card, one click from the payment page.
+- Before payment, Rain Cleaner says that the payment page may show your own currency with a conversion fee, and that you can choose EUR there to pay the euro price exactly. No prices changed.
+
+## 2.22.1 — 2026-11-13
+
+- Protection no longer calls a file a ransom note because of its name: a readme.txt from an installer is just a readme. A file is reported only if its text says your files were encrypted and asks for payment or a contact, and it is marked as an attack only with more signs.
+- The home screen and the Clean screen both show free space as "X free of Y". Memory is shown the same way everywhere, as installed (for example 24 GB).
+- The PC health score says "Still measuring" until all its checks are back, and later shows what it was before if it changes.
+
 ## 2.22.0 — 2026-11-10
 
 - New on first start: Rain Cleaner asks once whether to start your free week of Pro, with two plain buttons - start it or stay with Free.
